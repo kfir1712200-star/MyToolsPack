@@ -1,0 +1,18 @@
+{
+  "name": "com.kfir1.mytools",
+  "version": "1.0.0",
+  "displayName": "MyTools",
+  "description": "A collection of Unity Editor tools: AI Debug Assistant, Auto Level Generator, Build & Store Automation, and Performance Analyzer.",
+  "unity": "2021.3",
+  "author": {
+    "name": "kfir1"
+  },
+  "keywords": [
+    "editor",
+    "tools",
+    "debug",
+    "build",
+    "performance",
+    "level-generator"
+  ]
+}
